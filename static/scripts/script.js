@@ -1,0 +1,1 @@
+alert("click 'OK' to continue");
